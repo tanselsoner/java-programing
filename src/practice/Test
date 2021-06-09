@@ -1,0 +1,18 @@
+package practice;
+
+public class Test{
+public Test(){
+System.out.print("A");
+}
+public Test(int a){
+System.out.print("B");
+public static void main (String[]args){
+test obj=new Test(200);
+}
+
+}
+
+
+
+}
+
